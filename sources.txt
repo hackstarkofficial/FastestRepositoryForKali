@@ -1,0 +1,4 @@
+#it is the fastest repository For Kali Linux By HackStark . Just paste the sources.list file in /etc/apt
+deb https://mirrors.ocf.berkeley.edu/kali kali-rolling main non-free contrib
+
+deb-src https://mirrors.ocf.berkeley.edu/kali kali-rolling main non-free contrib
